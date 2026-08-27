@@ -28,6 +28,6 @@ Berdasarkan hasil visualisasi dan analisis data survei:
 ## 📁 Repository Structure
 ```text
 ├── Dashboard Survey Profesional Work.pbix   # File proyek utama Power BI
-├── dashboard_preview.png                    # Gambar tangkapan layar dashboard
-├── dataset/                                 # Folder data mentah (CSV/Excel)
+├── dashboard_preview.jpg                    # Gambar tangkapan layar dashboard
+├── dataset/Survey Professional Work.xlsx    # Folder data mentah (CSV/Excel)
 └── README.md                                # Dokumentasi proyek
