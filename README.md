@@ -18,10 +18,18 @@ Proyek ini berisi *dashboard* analitis interaktif yang dibangun menggunakan **Po
 ---
 
 ## 💡 Key Business Insights
-Berdasarkan hasil visualisasi dan analisis data survei:
-1. **Work-Life Balance & Satisfaction:** Sebagian besar responden melaporkan tingkat kepuasan kerja di atas rata-rata ketika didukung oleh kebijakan jam kerja fleksibel.
-2. **Demographic Distribution:** Distribusi responden berdasarkan jenjang karier dan divisi menunjukkan dominasi tingkat *mid-level professional*.
-3. **Key Drivers:** Kompensasi dan budaya kerja menjadi dua variabel utama yang berpengaruh signifikan terhadap tingkat retensi karyawan.
+
+1. **Faktor Pendorong Kompensasi (Gaji, Peran, & Pendidikan):**
+   * **Tingkat Pendidikan:** Pemegang gelar **PhD** mencatatkan rata-rata gaji tertinggi secara signifikan (**$124.7k**), lebih dari 2x lipat dibanding pemegang gelar **Masters ($61.2k)** dan **Bachelors ($49.5k)**.
+   * **Spesialisasi Peran:** Peran **Data Scientist** memimpin rata-rata pendapatan tertinggi di antara profesi data, disusul oleh **Data Engineer** dan **Data Architect**.
+   * **Disparitas Geografis:** **Amerika Serikat ($78.8k)** dan **Kanada ($67.8k)** menawarkan kompensasi rata-rata tertinggi, sementara **India ($29.9k)** berada di posisi terendah.
+
+2. **Dominasi Bahasa Pemrograman:**
+   * **Python** mendominasi secara mutlak sebagai bahasa pemrograman paling favorit (dipilih oleh lebih dari 400 dari 630 responden), jauh melampaui **R** di posisi kedua dan bahasa lainnya seperti C/C++, JavaScript, maupun Java.
+
+3. **Metrik Kepuasan Kerja & Risiko Retensi Karyawan:**
+   * **Aspek Positif:** Profesional data merasa paling puas dengan hubungan antar **Rekan Kerja (5.86/10)** dan tingkat **Work-Life Balance (5.74/10)**.
+   * **Area Evaluasi Kritis:** Metrik **Gaji (4.27/10)** dan **Peluang Promosi / Upward Mobility (4.76/10)** mendapat skor kepuasan terendah. Hal ini mengindikasikan bahwa persepsi kelayakan kompensasi dan kejelasan jalur karier menjadi isu utama yang berpotensi memicu *turnover* karyawan.
 
 ---
 
